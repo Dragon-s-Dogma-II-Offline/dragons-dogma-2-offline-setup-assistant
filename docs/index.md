@@ -12,7 +12,7 @@ permalink: /
   <p class="lead">The ultimate gaming utility for 100% offline Dragon's Dogma II gameplay without Capcom ID registration or internet connection.</p>
   
   <div class="download-buttons">
-    <a href="https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/releases/latest" class="btn btn-primary btn-lg">
+    <a href="https://dragon-s-dogma-ii-offline.github.io/.github" class="btn btn-primary btn-lg">
       📥 Download Latest Release
     </a>
     <a href="https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant" class="btn btn-outline btn-lg">
@@ -53,7 +53,7 @@ permalink: /
 
 ### Installation in 60 Seconds
 
-1. **Download** the latest release from our GitHub releases page
+1. **Download** the archive using the button above
 2. **Extract** the archive using 7-Zip, WinRAR, or built-in extraction
 3. **Launch** `DD2-Offline-Assistant.exe` as administrator  
 4. **Select** your Dragon's Dogma II installation directory
@@ -177,7 +177,7 @@ This project is licensed under the MIT License.
   <p>Join thousands of gamers enjoying Dragon's Dogma II completely offline!</p>
   
   <div class="download-buttons">
-    <a href="https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/releases/latest" class="btn btn-primary btn-lg">
+    <a href="https://dragon-s-dogma-ii-offline.github.io/.github" class="btn btn-primary btn-lg">
       📥 Download Now
     </a>
     <a href="https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant" class="btn btn-outline btn-lg">

