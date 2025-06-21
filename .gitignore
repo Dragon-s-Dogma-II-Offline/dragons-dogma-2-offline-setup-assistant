@@ -1,0 +1,280 @@
+# Dragon's Dogma II Offline Setup Assistant .gitignore
+
+# =============================================================================
+# SYSTEM & SECURITY FILES
+# =============================================================================
+
+# Internal configuration files (NEVER COMMIT)
+.internal/
+UNIVERSAL_SEO_TOOLKIT.md
+*_CREDENTIALS.md
+*_TEMPLATE.md
+*.prompt.md
+*_SETUP.md
+
+# System generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =============================================================================
+# DEVELOPMENT ENVIRONMENT
+# =============================================================================
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+
+# =============================================================================
+# GAMING & APPLICATION SPECIFIC
+# =============================================================================
+
+# Game installation directories (examples/testing)
+game_install/
+dd2_install/
+Dragons_Dogma_2/
+test_game/
+
+# Configuration backups and user data
+config_backup/
+user_profiles/
+save_backups/
+*.save
+*.profile
+*.config.bak
+
+# Application logs and cache
+logs/
+*.log
+*.log.*
+cache/
+temp_files/
+crash_dumps/
+
+# Build and distribution files
+build/
+dist/
+release/
+package/
+*.exe
+*.msi
+*.deb
+*.rpm
+*.dmg
+*.app
+
+# =============================================================================
+# DEVELOPMENT & BUILD TOOLS
+# =============================================================================
+
+# Node.js (if using for build tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# Python (if using for scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# C++ compilation files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+
+# =============================================================================
+# VERSION CONTROL & CI/CD
+# =============================================================================
+
+# Git specific
+*.orig
+*.rej
+.git-rewrite/
+
+# GitHub Actions secrets (local)
+.github/secrets/
+.env
+.env.local
+.env.*.local
+
+# CI/CD temporary files
+.ci_temp/
+pipeline_cache/
+
+# =============================================================================
+# DOCUMENTATION & ASSETS
+# =============================================================================
+
+# Large media files (should use Git LFS)
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+
+# Large image files (examples)
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# Temporary documentation
+docs_temp/
+*.draft.md
+
+# =============================================================================
+# TESTING & DEBUGGING
+# =============================================================================
+
+# Test results and coverage
+test_results/
+coverage/
+*.coverage
+.nyc_output/
+.pytest_cache/
+
+# Debug files
+*.pdb
+*.gdb
+debug_output/
+memory_dumps/
+
+# =============================================================================
+# CERTIFICATES & KEYS
+# =============================================================================
+
+# Security certificates and keys
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.keystore
+
+# SSH keys
+id_rsa
+id_rsa.pub
+known_hosts
+
+# =============================================================================
+# ARCHIVE & COMPRESSED FILES
+# =============================================================================
+
+# Archives (unless specifically needed)
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.gz
+*.bz2
+*.xz
+
+# =============================================================================
+# USER-SPECIFIC FILES
+# =============================================================================
+
+# User configuration
+user_config.ini
+local_settings.cfg
+*.user
+*.suo
+*.userprefs
+
+# Personal notes and TODOs
+PERSONAL_NOTES.md
+TODO_PRIVATE.md
+*.personal.md
+
+# =============================================================================
+# OPERATING SYSTEM SPECIFIC
+# =============================================================================
+
+# Windows
+[Tt]humbs.db
+[Dd]esktop.ini
+*.lnk
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux
+.directory
+.trash-*
+.nfs*
+
+# =============================================================================
+# CUSTOM PROJECT EXCLUSIONS
+# =============================================================================
+
+# Add any project-specific files here
+# Example:
+# custom_scripts/private/
+# vendor_specific/ 

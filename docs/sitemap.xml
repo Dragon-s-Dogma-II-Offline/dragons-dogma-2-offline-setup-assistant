@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Installation Guide -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/installation/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Configuration Tutorial -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/configuration/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- First Launch Guide -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/first-launch/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Graphics Optimization -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/graphics-optimization/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Controller Setup -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/controller-setup/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Mod Installation Guide -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/mod-installation/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Troubleshooting -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/troubleshooting/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>bi-weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Diagnostic Tools -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/diagnostics/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Community Support -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/community-support/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Performance Optimization -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/performance-optimization/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- System Requirements -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/system-requirements/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Frequently Asked Questions -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/faq/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Release Notes -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/release-notes/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Contributing Guide -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/contributing/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Security Policy -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/security/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- License Information -->
+  <url>
+    <loc>https://dragon-s-dogma-ii-offline.github.io/dragons-dogma-2-offline-setup-assistant/license/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset> 

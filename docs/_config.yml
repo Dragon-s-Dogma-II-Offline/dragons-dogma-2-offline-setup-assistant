@@ -1,0 +1,229 @@
+# Dragon's Dogma II Offline Setup Assistant - GitHub Pages Configuration
+
+# Site Settings
+title: "Dragon's Dogma II Offline Setup Assistant"
+description: "The ultimate offline configuration and setup assistant for Dragon's Dogma II. Launch, configure, and enjoy Dragon's Dogma II completely offline without Capcom ID registration."
+baseurl: "/dragons-dogma-2-offline-setup-assistant"
+url: "https://dragon-s-dogma-ii-offline.github.io"
+repository: "Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant"
+
+# GitHub Pages Theme
+theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Site Author
+author:
+  name: "Dragon's Dogma II Offline Community"
+  email: "support@dragons-dogma-ii-offline.github.io"
+
+# Social Media & Community Links
+social:
+  github: "Dragon-s-Dogma-II-Offline"
+  discord: "https://discord.gg/dragonsdogma2offline"
+  reddit: "https://reddit.com/r/DragonsDogma2Offline"
+
+# SEO & Marketing
+lang: en-US
+locale: en_US
+
+# Google Analytics (replace with your tracking ID)
+google_analytics: UA-XXXXXXXXX-X
+
+# Site SEO Tags
+keywords: 
+  - "dragon's dogma 2 offline"
+  - "dd2 offline launcher"
+  - "dragon's dogma ii offline mode"
+  - "capcom rpg offline"
+  - "fantasy rpg offline setup"
+  - "dd2 no capcom id"
+  - "dragon's dogma 2 sandbox mode"
+  - "offline rpg configuration"
+  - "dragon's dogma ii local setup"
+  - "dd2 offline assistant"
+  - "gaming utilities"
+  - "rpg tools"
+  - "offline gaming"
+  - "capcom games"
+  - "fantasy rpg"
+
+# Page Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author: "Dragon's Dogma II Offline Community"
+
+# Navigation Menu
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Installation"
+    url: "/installation/"
+  - title: "Configuration"
+    url: "/configuration/"
+  - title: "Troubleshooting"
+    url: "/troubleshooting/"
+  - title: "Community"
+    url: "/community/"
+  - title: "GitHub"
+    url: "https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant"
+
+# Plugins for GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+# Plugin Configurations
+jekyll-mentions:
+  base_url: https://github.com
+
+# Markdown Configuration
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Highlighter
+highlighter: rouge
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Permalinks
+permalink: pretty
+
+# Sass Configuration
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Collections
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:name/
+  tutorials:
+    output: true
+    permalink: /:collection/:name/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - .git/
+  - .github/
+  - README.md
+  - LICENSE
+  - "*.log"
+
+# Include in processing
+include:
+  - _pages
+  - .htaccess
+
+# Front Matter Defaults for SEO
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/images/dd2-social-preview.png"
+      author: "Dragon's Dogma II Offline Community"
+      
+# Site Verification (replace with your verification codes)
+webmaster_verifications:
+  google: "your-google-verification-code"
+  bing: "your-bing-verification-code"
+  yandex: "your-yandex-verification-code"
+
+# Open Graph Defaults
+og:
+  type: "website"
+  locale: "en_US"
+  site_name: "Dragon's Dogma II Offline Setup Assistant"
+
+# Twitter Card Defaults
+twitter:
+  card: "summary_large_image"
+  site: "@DragonsDogma2Off"
+  creator: "@DragonsDogma2Off"
+
+# Schema.org Structured Data
+structured_data:
+  type: "SoftwareApplication"
+  name: "Dragon's Dogma II Offline Setup Assistant"
+  description: "Gaming utility for offline Dragon's Dogma II gameplay"
+  applicationCategory: "GameApplication"
+  operatingSystem: "Windows, Linux"
+  softwareVersion: "2.1.0"
+  offers:
+    price: "0"
+    priceCurrency: "USD"
+
+# Custom Variables for Templates
+gaming:
+  primary_platform: "PC"
+  supported_platforms: ["Windows", "Linux"]
+  game_name: "Dragon's Dogma II"
+  tool_category: "Gaming Utility"
+  features:
+    - "Offline Gameplay"
+    - "Graphics Configuration"
+    - "Controller Support"
+    - "Mod Management"
+    - "Performance Optimization"
+
+# Footer Configuration
+footer:
+  links:
+    - title: "GitHub Repository"
+      url: "https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant"
+      icon: "github"
+    - title: "Discord Community"
+      url: "https://discord.gg/dragonsdogma2offline"
+      icon: "discord"
+    - title: "Report Issues"
+      url: "https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/issues"
+      icon: "bug"
+    - title: "Feature Requests"
+      url: "https://github.com/Dragon-s-Dogma-II-Offline/dragons-dogma-2-offline-setup-assistant/issues/new?template=feature_request.md"
+      icon: "lightbulb"
+
+# Copyright
+copyright: "© 2024 Dragon's Dogma II Offline Community. Licensed under MIT License."
+
+# Additional SEO Meta Tags
+meta_tags:
+  - name: "robots"
+    content: "index, follow"
+  - name: "author"
+    content: "Dragon's Dogma II Offline Community"
+  - name: "viewport"
+    content: "width=device-width, initial-scale=1"
+  - name: "theme-color" 
+    content: "#8B0000"
+  - property: "og:image:width"
+    content: "1200"
+  - property: "og:image:height"
+    content: "630" 
